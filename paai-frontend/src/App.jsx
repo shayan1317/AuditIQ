@@ -10,7 +10,7 @@ function App() {
       </nav>
 
       <main className="main">
-        <h1>ISO 27001 Audit Platform</h1>
+        <h1>ISO 27001 <span>Audit Platform</span></h1>
         <p>Perform internal ISO 27001 audits, assess compliance controls and generate audit reports.</p>
         <div className="buttons">
           <button onClick={() => navigate('/signup')}>Sign Up</button>
